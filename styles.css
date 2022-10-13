@@ -1,0 +1,68 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(53, 184, 82);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 2ch;
+}
+
+li a:hover {
+  background-color: rgb(0, 0, 0);
+}
+
+.pic{
+  width: 80%;
+  height: 80%;
+  padding-left: 43px;
+  padding-top: 5px;
+}
+body{
+  align-items: center;
+}
+.ig{
+  width: 8%;
+  height: 8%;
+  padding-left: 80px;
+  padding-top: 10px;
+}
+.facebook{
+  width: 8%;
+  height: 8%;
+  padding-left: 40px;
+  padding-top: 10px;
+}
+h1{
+  text-align: center;
+}
+.certificate_1{
+  width: 60%;
+  height: 80% ;
+  padding-left: 80px;
+  padding-top: 5px;
+}
+.per_pic{
+  width: 40%;
+  height: 40%;
+  padding-left: 20px;
+}
+h2{
+  font-size: small;
+  padding-left: 20px;
+}
+p{
+  padding-left: 20px;
+  font-size: 2ch;
+}
